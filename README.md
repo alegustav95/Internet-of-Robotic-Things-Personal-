@@ -7,3 +7,5 @@ Arduino, PIC, PLC, Python, C/C++ projects
 4. Using of ESP8266 for controll and programm sensors and set variables meteo station.
 ![sensesphere](https://github.com/alegustav95/Internet-of-Robotic-Things-Personal-/assets/118694302/3add9c63-c7ab-4288-8636-194efca0df6f)
 It is the circuit
+![WhatsApp Image 2023-08-28 at 22 03 17](https://github.com/alegustav95/Internet-of-Robotic-Things-Personal-/assets/118694302/6ae2bbf9-9aaa-4266-970d-e23b65eae7c4)
+It is the final project :) 
